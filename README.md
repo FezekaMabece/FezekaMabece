@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @FezekaMabece
-- 👀
-- Aspiring Software Engineer
+WeThinkCode_ Student | Aspiring Software Engineer | DevOps Enthusiast | IT Graduate
 
-<!---
-FezekaMabece/FezekaMabece is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am passionate about software engineering and DevOps, combining my technical skills 
+with a keen interest in automation and infrastructure management.
+Currently, I am honing my abilities through WeThinkCode_, 
+with a focus on cloud technologies, CI/CD pipelines, and containerization.
+
+Let's collaborate on innovative projects
